@@ -388,4 +388,8 @@ alter a posted job
 SQL:
 '''
 ALTER TABLE posted_jobs ADD pid INT
+<<<<<<< HEAD
 '''
+=======
+'''
+>>>>>>> 30ac9886dd3926d09877ca9e4ec52fc74ddfc1da

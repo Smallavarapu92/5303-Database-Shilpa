@@ -183,3 +183,7 @@ Your database system should provide controlled access to the data by distinguish
 * Customer Representatives should not be able to perform manage-level transactions; however, they should be able to read employee information, except for the hourly rate.
 * Customer Representatives should be able to record an interview.
 * A customer should not be allowed to access other customers' account information, or to any employee information.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 30ac9886dd3926d09877ca9e4ec52fc74ddfc1da

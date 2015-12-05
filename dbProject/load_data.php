@@ -41,4 +41,8 @@ SQL;
 		die('There was an error running the query [' . $db->error . ']');	
 	}
 }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 30ac9886dd3926d09877ca9e4ec52fc74ddfc1da
